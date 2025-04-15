@@ -4,5 +4,5 @@
 <p>And you also need apache tomcat server to run this application on localhost</p><br>
 <h2>**NOTE**<h2>
 <p>if you aren't getting api's in the bin folder kindly follow the links for the api's.</p><br>
-<a href="https://repo1.maven.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar">servlet_api</a>
+<a href="https://repo1.maven.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar">servlet_api</a> <br>
 <a href="https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.jar">mysql_connector_api</a>
